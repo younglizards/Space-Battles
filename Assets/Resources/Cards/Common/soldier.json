@@ -1,0 +1,8 @@
+{
+  "id": "soldier",
+  "name": "Elite soldier",
+  "cost": "2",
+  "unitSlots": "2",
+  "category": "CREW",
+  "text": "<b><size=120%>+2 damage</b>\n<b><size=120%>+2 shields</b>"
+}

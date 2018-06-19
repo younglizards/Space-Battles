@@ -1,0 +1,10 @@
+{
+  "id": "c_deck_01",
+  "name": "Common deck",
+  "cardStacks": [
+    {
+      "id": "soldier",
+      "ammount": "60"
+    }
+  ]
+}

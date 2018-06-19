@@ -1,0 +1,10 @@
+{
+  "id": "spaceship_01",
+  "name": "Combat spaceship",
+  "shields": "5",
+  "shipSlots": "3",
+  "cost": "4",
+  "damage": "1",
+  "category": "SPACESHIP",
+  "text": "<b><size=120%>+1 damage</b> <size=100%>for each <b><size=120%>Military</b> <size=100%>unit"
+}

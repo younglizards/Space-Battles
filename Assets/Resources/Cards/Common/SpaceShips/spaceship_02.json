@@ -1,0 +1,9 @@
+{
+  "id": "spaceship_02",
+  "name": "Alien spider",
+  "shields": "3",
+  "shipSlots": "2",
+  "cost": "4",
+  "damage": "3",
+  "category": "SPACESHIP"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "s_deck_01",
+  "name": "Spaceships deck",
+  "cardStacks": [
+    {
+      "id": "spaceship_01",
+      "ammount": "3"
+    },
+    {
+      "id": "spaceship_02",
+      "ammount": "3"
+    }
+  ]
+}
